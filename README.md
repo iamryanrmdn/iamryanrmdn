@@ -1,8 +1,8 @@
 # Halo everyone 🙌
 
 Let me introduce myself, my name is **Ryan Rizky Ramadhan**.<br>
-- 👨‍🦱 I'm Beginner Android Developer;
-- 🏫 I'm an informatics engineering student;
+- 👨‍🦱 I'm Beginner Android Developer
+- 🏫 I'm an informatics engineering student
 - ⚡ Fun fact : I can stay up until 5 in the morning ☀️<br><br>
 If you interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ryan-rizky-ramadhan-a82487137/).<br><br>
 Menyala Abangkuhhhh :fire::fire::fire: <br><br>
