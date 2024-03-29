@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ryan Rizky Ramadhan**.<br>
 Saya seorang Android Developer Pemula.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ryan-rizky-ramadhan-a82487137/)ku ya.<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ryan-rizky-ramadhan-a82487137/) ku ya.<br>
 Menyala Abangkuhhhh :fire::fire::fire: <br><br>
 
 <p align="left">
