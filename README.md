@@ -1,10 +1,19 @@
-# Halo semua 🙌
+# Halo everyone 🙌
 
-Perkenalkan nama saya **Ryan Rizky Ramadhan**.<br>
-Saya seorang Android Developer Pemula.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ryan-rizky-ramadhan-a82487137/) ku ya.<br>
+Let me introduce myself, my name is **Ryan Rizky Ramadhan**.<br>
+- 👨‍🦱 I'm Beginner Android Developer;
+- 🏫 I'm an informatics engineering student;
+- ⚡ Fun fact : I can stay up until 5 in the morning ☀️
+If you interested in getting to know me, please follow my [Linkedin] account (https://www.linkedin.com/in/ryan-rizky-ramadhan-a82487137/).<br><br>
 Menyala Abangkuhhhh :fire::fire::fire: <br><br>
-
+<hr>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,cpp,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+  </a>
+</p>
+</div>
 <p align="left">
 <a href="https://github.com/iamryanrmdn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamryanrmdn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
